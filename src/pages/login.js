@@ -10,13 +10,13 @@ import {getFirestore} from 'firebase/firestore';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAFjBtjJwJnuR_uvYLE6Jk8X2Mb2ANOaDE",
-  authDomain: "myntra-project-5f015.firebaseapp.com",
-  projectId: "myntra-project-5f015",
-  storageBucket: "myntra-project-5f015.appspot.com",
-  messagingSenderId: "444306999646",
-  appId: "1:444306999646:web:1f33a3c624939573d2e7cf",
-  measurementId: "G-3QHXZ75RP2"
+  apiKey: "AIzaSyB2_A_s4uSKW34gMoWOJptRh9D3W8XEjt4",
+  authDomain: "shareable-wishlists-710bf.firebaseapp.com",
+  projectId: "shareable-wishlists-710bf",
+  storageBucket: "shareable-wishlists-710bf.firebasestorage.app",
+  messagingSenderId: "700031085097",
+  appId: "1:700031085097:web:00116d170b95b2d4300a38",
+  measurementId: "G-5FR2XVRJ5Q"
 };
 
 // Initialize Firebase
