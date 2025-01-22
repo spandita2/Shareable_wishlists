@@ -10,7 +10,7 @@ import {getFirestore} from 'firebase/firestore';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB2_A_s4uSKW34gMoWOJptRh9D3W8XEjt4",
+  apiKey: "secret",
   authDomain: "shareable-wishlists-710bf.firebaseapp.com",
   projectId: "shareable-wishlists-710bf",
   storageBucket: "shareable-wishlists-710bf.firebasestorage.app",
